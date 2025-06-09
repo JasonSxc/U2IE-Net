@@ -1,2 +1,2 @@
 # U2IE-Net
-The UIE code and pre-trained models will be made public soon!
+The code and the pre-trained models will be made public soon!
