@@ -1,2 +1,2 @@
 # U2IE-Net
-The pre-trained model and related resources will be released after the paper is accepted.
+The paper has been accepted by the journal Neurocomputing, and we will make the pre-trained models and code available as soon as possible.
