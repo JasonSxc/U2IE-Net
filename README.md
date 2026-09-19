@@ -1,6 +1,8 @@
 # U2IE-Net: An Unpaired Underwater Optical Image Enhancement Network Based on Multi-Physical Model Constraints
 
-[![Journal](https://img.shields.io/badge/Journal-Neurocomputing-blue.svg)](https://doi.org/10.1016/j.neucom.2026.134993)
+[![Journal](https://img.shields.io/badge/Journal-Neurocomputing-blue.svg)](https://doi.org/10.1016/j.neucom.2026.134993
+        
+        )
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [English](#english) | [中文说明](#中文说明)
@@ -44,19 +46,7 @@ Install dependencies using:
 pip install torch torchvision pillow tqdm
 ```
 
-#### 2. Project Directory Structure
-Ensure your project directory is organized as follows:
-```text
-U2IE-Net/
-│
-├── REM.py                       # Retinex Enhancement Module
-├── MainModel.py                 # Main Model Architecture
-├── test.py                      # Inference Script
-└── checkpoints/
-    └── u2ie_latest.pth          # Pre-trained Weights
-```
-
-#### 3. Running Inference
+#### 2. Running Inference
 To run the model on your custom dataset:
 1. Open `test.py` and modify the path parameters in the `if __name__ == '__main__':` section:
    - `INPUT_DIR`: Path to your raw underwater images.
@@ -132,19 +122,7 @@ keywords = {Underwater image enhancement, Unpaired learning, Multi-physical mode
 pip install torch torchvision pillow tqdm
 ```
 
-#### 2. 项目目录结构
-请确保项目包含以下核心文件：
-```text
-U2IE-Net/
-│
-├── REM.py                       # Retinex 增强模块
-├── MainModel.py                 # 主模型结构定义
-├── test.py                      # 推理运行脚本
-└── checkpoints/
-    └── u2ie_latest.pth          # 下载的模型权重文件
-```
-
-#### 3. 执行推理
+#### 2. 执行推理
 1. 打开 `test.py` 脚本，在 `if __name__ == '__main__':` 入口处修改参数：
    - `INPUT_DIR`: 待增强的原始水下图像文件夹路径。
    - `OUTPUT_DIR`: 增强结果保存的目标文件夹路径。
