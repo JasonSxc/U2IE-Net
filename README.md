@@ -11,7 +11,7 @@
 ## English
 
 ### 📌 Overview
-This is the official repository for **U2IE Net** (Unpaired Underwater Image Enhancement Network), published in *Neurocomputing*. 
+This is the official repository for **U2IE Net** (An unpaired underwater optical images enhancement network based on multi-physical model constraints), published in *Neurocomputing*. 
 
 Underwater images often suffer from severe degradation caused by light absorption, scattering, and suspended particles. To overcome the reliance on strictly paired underwater datasets, **U2IE Net** utilizes a novel cross-domain paired supervision strategy with multi-physical degradation model constraints, delivering optimal image restoration, structural preservation, and computational efficiency.
 
