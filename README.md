@@ -1,8 +1,6 @@
 # U2IE-Net: An Unpaired Underwater Optical Image Enhancement Network Based on Multi-Physical Model Constraints
 
-[![Journal](https://img.shields.io/badge/Journal-Neurocomputing-blue.svg)](https://doi.org/10.1016/j.neucom.2026.134993
-        
-        )
+[![Journal](https://img.shields.io/badge/Journal-Neurocomputing-blue.svg)](https://doi.org/10.1016/j.neucom.2026.134993)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 [English](#english) | [中文说明](#中文说明)
