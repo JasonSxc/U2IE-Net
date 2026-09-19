@@ -98,7 +98,7 @@ keywords = {Underwater image enhancement, Unpaired learning, Multi-physical mode
 ## 中文说明
 
 ### 📌 项目简介
-本仓库是发表于 *Neurocomputing* 期刊的论文 **U2IE Net**（基于多物理模型约束的无监督水下光学图像增强网络）的官方实现。
+本仓库是发表于 *Neurocomputing* 期刊的论文 **U2IE Net**（An unpaired underwater optical images enhancement network based on multi-physical model constraints）的官方实现。
 
 针对水下图像因吸收和散射导致的严重色偏与结构模糊问题，**U2IE Net** 提出了跨领域对齐监督策略与多物理退化模型约束，摆脱了对真实水下成对数据集的依赖，在保持高效率计算的同时实现了优秀的去雾与水下复原效果。
 
